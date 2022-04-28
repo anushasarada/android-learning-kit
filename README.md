@@ -232,3 +232,6 @@
 <br>
 
 ---
+
+For the kit's structure, we've taken reference from [frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) and the contributors for the said reference.
+We intend no harm to either the said repo or the contributors' hardwork & fame.
